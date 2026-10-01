@@ -19,12 +19,12 @@ El flujo de trabajo sigue una arquitectura por capas desacoplada en cuatro fases
 
 ```text
 +-----------------------------------------------------------------------------------+
-| 1. EXTRACCIÓN MASIVA          2. ETL & TRANSFORMACIÓN        3. CARGA DE DATOS   |
+| 1. EXTRACCIÓN MASIVA          2. ETL & TRANSFORMACIÓN        3. CARGA DE DATOS    |
 |   (Playwright)                   (Pandas)                      (Selenium)         |
 |                                                                                   |
-|  Scraping asíncrono   --->   Limpieza de datos         --->  Formularios Web    |
-|  de 50 páginas               Filtrado por reglas               Manejo de DOM      |
-|  (~1,000 registros)          Reporte en Excel                  Intercepción JS    |
+|  Scraping asíncrono   --->     Limpieza de datos       --->    Formularios Web    |
+|  de 50 páginas                 Filtrado por reglas             Manejo de DOM      |
+|  (~1,000 registros)            Reporte en Excel                Intercepción JS    |
 +-----------------------------------------------------------------------------------+
                                                                    |
                                                                    v
