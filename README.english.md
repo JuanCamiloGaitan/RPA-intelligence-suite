@@ -31,5 +31,5 @@ The workflow follows a multi-tiered architecture decoupled into four primary pha
                                                            (n8n & Webhooks)
                                                                    |
                                                                    v
-                                                        Email Notifications /
-                                                        Execution Monitoring
+                                                          Email Notifications /
+                                                          Execution Monitoring
