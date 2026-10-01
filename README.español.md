@@ -1,3 +1,7 @@
+[← Read_in_English](README.english.md)
+
+---
+
 # Enterprise RPA Intelligence & Scraping Suite
 
 <details open>
