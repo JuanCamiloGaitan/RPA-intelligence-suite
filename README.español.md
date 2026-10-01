@@ -4,11 +4,6 @@
 
 # Enterprise RPA Intelligence & Scraping Suite
 
-<details open>
-<summary><b>🇪🇸 Leer en Español (Haz clic para contraer/desplegar)</b></summary>
-
-<br>
-
 ## Visión General del Proyecto
 
 Esta solución de Automatización Robótica de Procesos (RPA) de nivel empresarial demuestra una arquitectura híbrida moderna para la extracción masiva de datos, procesamiento ETL (Extracción, Transformación y Carga), carga automatizada en sistemas de destino e integración con flujos de orquestación low-code.
